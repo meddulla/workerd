@@ -1,0 +1,25 @@
+types/generated-snapshot/experimental/index.d.ts
+  s_253ab8befd8177::t_1e2a3b2dcefa62 12625-12633,12670,12717,12753,12768,12784-12787
+types/generated-snapshot/experimental/index.ts
+  s_253ab8befd8177::t_be24691008d99b 12639-12647,12684,12731,12767,12782,12798-12801
+types/generated-snapshot/index.d.ts
+  s_253ab8befd8177::t_4b9a27ca2f1803 12350-12358,12395,12442,12478,12493,12509-12512
+types/generated-snapshot/index.ts
+  s_253ab8befd8177::t_6aab66736a1435 12364-12372,12409,12456,12492,12507,12523-12526
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "6e2e73e7b3fe69d4d9bfafbbbc0fd2d8b8611d98",
+  "prompts": {},
+  "sessions": {
+    "s_253ab8befd8177": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feab9d83affeMqeF1fu5xXCKU5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sofia Cardita <scardita@cloudflare.com>"
+    }
+  }
+}
