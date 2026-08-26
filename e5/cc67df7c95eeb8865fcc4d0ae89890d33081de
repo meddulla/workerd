@@ -1,0 +1,17 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "e5cc67df7c95eeb8865fcc4d0ae89890d33081de",
+  "prompts": {},
+  "sessions": {
+    "s_253ab8befd8177": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_feab9d83affeMqeF1fu5xXCKU5",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Sofia Cardita <scardita@cloudflare.com>"
+    }
+  }
+}
